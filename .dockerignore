@@ -1,0 +1,6 @@
+.venv/
+venv/
+logs/
+.idea/
+.vscode/
+*.sqlite3
